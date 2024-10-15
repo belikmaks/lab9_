@@ -44,3 +44,4 @@ if file_3_r is not None:
 
     file_3_r.close()
     print("File TF13_2.txt закрито!")
+
